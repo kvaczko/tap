@@ -2,7 +2,7 @@
 
 apt -y install ffmpeg pulseaudio alsa-utils pip python3.11-venv sudo zip curl
 
-curl asdasdas -o /tap.zip
+curl https://github.com/kvaczko/tap/raw/main/tap.zip -o /tap.zip
 cd /
 unzip tap.zip
 
